@@ -1,0 +1,4 @@
+use IA
+db.Data.insertOne({name: "matteo_piri", film_interest: ["Action","Comedy","Fantasy"], music_interest: ["Anime", "Disney", "Country", ], news_interest: ["Crime", "Science", "Sport"]})
+db.Data.insertOne({name: "fabiana_ritorti", film_interest: ["Action","Comedy","Horror"], music_interest: ["Blues", "Disney", "Country"], news_interest: ["Crime", "Gossip", "Science"]})
+db.Data.insertOne({name: "ciccio_pasticcio", film_interest: ["War","Musical","Romance"], music_interest: ["Dance","Classical", "Jazz"], news_interest: ["Fashion", "Medical", "Online"]})
